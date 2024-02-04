@@ -1,0 +1,1 @@
+To run this program, you need to make sure that you compile all the java files using javac *.java. Then do rmic BeaconListenerImpl. Before you run it make sure you turn on rmiregistry, then run Manager and then agent.
